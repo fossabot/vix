@@ -1,6 +1,7 @@
 # vix
 
 ![CI](https://github.com/theverygaming/vix/actions/workflows/workflow.yml/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftheverygaming%2Fvix.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftheverygaming%2Fvix?ref=badge_shield)
 
 a broken kernel with a ton of bad design choices and copypasted code. _It's actually not that bad anymore tho_
 
@@ -70,3 +71,7 @@ for other architectures look at the [GitHub actions workflow](.github/workflows/
 cd kernel
 make clangd_compile_flags_txt
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftheverygaming%2Fvix.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftheverygaming%2Fvix?ref=badge_large)
